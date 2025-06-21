@@ -1,4 +1,4 @@
-package main
+package workspace
 
 type Workspace struct {
 	Name        string       `json:"name"`
